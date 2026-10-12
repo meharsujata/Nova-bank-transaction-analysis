@@ -31,4 +31,12 @@ Digital banking users may experience failed or pending transactions, delays in b
 ## Project Deliverable
 Power BI dashboard for analyzing digital banking transaction performance and identifying areas for operational improvement.
 
+## Dashboard Preview
+
+![Nova Bank Dashboard](Nova-Bank-Dashboard.png)
+
+
+
+
+
 *Note: Findings reflect the analyzed dataset and should not be interpreted as actual Nova Bank operational results.*
