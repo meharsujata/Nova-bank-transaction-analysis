@@ -33,8 +33,7 @@ Power BI dashboard for analyzing digital banking transaction performance and ide
 
 ## Dashboard Preview
 
-![Nova Bank Dashboard](Nova Bank Dashboard.png)
-
+![Nova Bank Dashboard](<Nova Bank Dashboard.png>)
 
 
 
