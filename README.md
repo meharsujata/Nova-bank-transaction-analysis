@@ -130,7 +130,7 @@ The proposed solution has not been implemented in a live banking environment, an
 
 ---
 
-**Project Status:** Portfolio case study — requirements and supporting analysis are being developed.
+ **Project Status:** Completed portfolio case study covering business analysis documentation, SQL-based transaction analysis, and a Power BI dashboard. UAT test cases are documented but have not been executed because the application has not been implemented.
 
 
 
