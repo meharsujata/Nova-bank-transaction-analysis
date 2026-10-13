@@ -51,17 +51,36 @@ The project is organized around the following activities:
 7. **Data Analysis:** Use SQL and Power BI to investigate transaction patterns relevant to the proposed improvements.
 8. **Recommendations:** Propose improvements and define measures for evaluating their effectiveness.
 
+
 ## Digital Banking Process Flow
 
-### As-Is Process
-Customer Login → Select Transaction → Enter Details → Transaction Failure/Pending → Unclear Status → Customer Contacts Support
+### As-Is vs. To-Be Customer Journey
 
-### To-Be Process
-Customer Login → Select Transaction → Enter Details → Transaction Processing → Clear Status Update → Timely Notification → Transaction History
+```mermaid
+flowchart TB
+    subgraph ASIS["As-Is: Current Journey"]
+        A[Customer Login] --> B[Select Transaction]
+        B --> C[Enter Details]
+        C --> D[Failed or Pending]
+        D --> E[Unclear Status]
+        E --> F[Contacts Support]
+    end
 
-**Key pain points:** Failed fund transfers, bill payment delays, unclear transaction statuses, and limited transaction visibility.
+    subgraph TOBE["To-Be: Proposed Journey"]
+        G[Customer Login] --> H[Select Transaction]
+        H --> I[Enter Details]
+        I --> J[Transaction Processing]
+        J --> K[Clear Transaction Status]
+        K --> L[Timely Notification]
+        L --> M[Transaction History]
+    end
+```
 
-**Proposed improvements:** Clear status updates, timely notifications, and improved transaction handling. These improvements are proposed and have not been implemented or validated in a live application.
+**Key pain points:** Failed fund transfers, bill-payment delays, unclear transaction statuses, and limited transaction visibility.
+
+**Proposed improvements:** Clear status updates, timely notifications, and improved transaction handling. These improvements have not been implemented or validated in a live application.
+
+
 
 ## 5. High-Level Business Requirements
 
