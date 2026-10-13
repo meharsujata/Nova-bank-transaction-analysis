@@ -30,16 +30,16 @@ These test cases verify whether the proposed mobile banking features meet the do
 
 | Test Case ID | Actual Result | Status | Comments |
 |---|---|---|---|
-| TC-01 | Not tested | Not Run | Pending application availability |
-| TC-02 | Not tested | Not Run | Pending application availability |
-| TC-03 | Not tested | Not Run | Pending application availability |
-| TC-04 | Not tested | Not Run | Pending application availability |
-| TC-05 | Not tested | Not Run | Pending application availability |
-| TC-06 | Not tested | Not Run | Pending application availability |
-| TC-07 | Not tested | Not Run | Pending application availability |
-| TC-08 | Not tested | Not Run | Pending application availability |
-| TC-09 | Not tested | Not Run | Pending application availability |
-| TC-10 | Not tested | Not Run | Pending application availability |
+| TC-01 | Not tested | Not Run | Application not implemented |
+| TC-02 | Not tested | Not Run | Application not implemented |
+| TC-03 | Not tested | Not Run | Application not implemented |
+| TC-04 | Not tested | Not Run | Application not implemented |
+| TC-05 | Not tested | Not Run | Application not implemented |
+| TC-06 | Not tested | Not Run | Application not implemented |
+| TC-07 | Not tested | Not Run | Application not implemented |
+| TC-08 | Not tested | Not Run | Application not implemented |
+| TC-09 | Not tested | Not Run | Application not implemented |
+| TC-10 | Not tested | Not Run | Application not implemented |
 
 ## 5. Notes
 
