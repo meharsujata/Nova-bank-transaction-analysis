@@ -4,6 +4,8 @@
 
 ## 1. Project Overview
 
+> **Disclaimer:** Nova Bank is a fictional portfolio case study. The transaction dataset contains dummy data, and the business requirements and recommendations are proposed for demonstration purposes only.
+
 **Project Role:** Business Analyst  
 **Domain:** Digital Banking  
 **Project Type:** Mobile Banking Application Enhancement  
